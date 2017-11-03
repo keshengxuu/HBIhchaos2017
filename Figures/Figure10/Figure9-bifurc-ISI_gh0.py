@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-
+patricio.orio@uv.cl 
+@author: patricio.orio
 """
 
 from __future__ import division
