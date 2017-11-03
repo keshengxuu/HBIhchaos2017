@@ -1,6 +1,6 @@
-""" 
-keshengxuu@gmail.com & patricio.orio@uv.cl 
-
+"""  
+keshengxuu@gmail.com 
+@author: keshengxu
 """
 
 from PyDSTool import *
