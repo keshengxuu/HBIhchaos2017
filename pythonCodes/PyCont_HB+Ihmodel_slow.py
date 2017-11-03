@@ -1,6 +1,6 @@
-""" EXAMPLE: Morris-Lecar (Type II)
+""" 
+keshengxuu@gmail.com & patricio.orio@uv.cl 
 
-    Drew LaMar, December 2005
 """
 
 from PyDSTool import *
