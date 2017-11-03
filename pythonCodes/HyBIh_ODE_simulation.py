@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 24 14:46:06 2016
-
-@author: mcaviedes
+keshengxuu@gmail.com & patricio.orio@uv.cl 
+@author: keshengxu
 """
 
 
